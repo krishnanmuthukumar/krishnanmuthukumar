@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Krishnan Muthukumar
-- 🌱 I’m currently learning AWS, Python, SpringBoot, Kafka and DevOps
+- 🌱 I’m currently working on Java,SpringBoot,Kafka and DevOps
 
 ![](https://komarev.com/ghpvc/?username=krishnanmuthukumar&color=green)
 
